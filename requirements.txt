@@ -1,0 +1,7 @@
+langchain-groq
+jupyter
+langchain
+langchain_community
+duckduckgo-search
+faiss-cpu 
+sentence-transformers
