@@ -10,6 +10,7 @@ Antes de executar qualquer script, certifique-se de que você tem o Python insta
 ## Monte o ambiente:
 
 python -m venv groq-chain
+
 groq-chain/bin/activate
 
 ## Desmontar ambiente:
@@ -30,6 +31,8 @@ Snippet de código
 
 GROQ_API_KEY="SUA_CHAVE_AQUI"
 
+## Execução
+Os scripts estão sob a forma de python jupyter notebook. Pelo VSCode é possivel facilmente executá-los.
 
 # Aumente o timeout para baixa modelo de embedding do huggingface
 export HF_HUB_DOWNLOAD_TIMEOUT=600
